@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31019.35
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "dedatosbase", "..\Downloads\P1Acrud1\P1Acrud1 (2)\P1Acrud\dedatosbase.csproj", "{89501CCD-0B8D-41B2-AF57-965F05F77B53}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{89501CCD-0B8D-41B2-AF57-965F05F77B53}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{89501CCD-0B8D-41B2-AF57-965F05F77B53}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{89501CCD-0B8D-41B2-AF57-965F05F77B53}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{89501CCD-0B8D-41B2-AF57-965F05F77B53}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C46DF96F-745E-4E02-B5DA-6EBC75E8A99C}
+	EndGlobalSection
+EndGlobal
